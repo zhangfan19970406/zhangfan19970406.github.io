@@ -1,27 +1,30 @@
 {
   "files": {
-    "main.css": "./static/css/main.ffba0f1f.chunk.css",
-    "main.js": "./static/js/main.ddfa80c6.chunk.js",
-    "main.js.map": "./static/js/main.ddfa80c6.chunk.js.map",
+    "main.css": "./static/css/main.ef12e380.chunk.css",
+    "main.js": "./static/js/main.620bdedf.chunk.js",
+    "main.js.map": "./static/js/main.620bdedf.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.101ccb2f.js",
     "runtime-main.js.map": "./static/js/runtime-main.101ccb2f.js.map",
-    "static/css/2.8d392105.chunk.css": "./static/css/2.8d392105.chunk.css",
-    "static/js/2.4c944281.chunk.js": "./static/js/2.4c944281.chunk.js",
-    "static/js/2.4c944281.chunk.js.map": "./static/js/2.4c944281.chunk.js.map",
+    "static/css/2.bae7c918.chunk.css": "./static/css/2.bae7c918.chunk.css",
+    "static/js/2.1a8ebe6f.chunk.js": "./static/js/2.1a8ebe6f.chunk.js",
+    "static/js/2.1a8ebe6f.chunk.js.map": "./static/js/2.1a8ebe6f.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.2e2fa06f18d73fde9a5663a26be536f5.js": "./precache-manifest.2e2fa06f18d73fde9a5663a26be536f5.js",
+    "precache-manifest.d634faf4da5ac4adddc98d5a812dd1d1.js": "./precache-manifest.d634faf4da5ac4adddc98d5a812dd1d1.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/2.8d392105.chunk.css.map": "./static/css/2.8d392105.chunk.css.map",
-    "static/css/main.ffba0f1f.chunk.css.map": "./static/css/main.ffba0f1f.chunk.css.map",
-    "static/media/font.less": "./static/media/icomoon.1799bf3c.woff",
-    "static/media/iconfont.css": "./static/media/iconfont.9fda8ba4.eot",
+    "static/css/2.bae7c918.chunk.css.map": "./static/css/2.bae7c918.chunk.css.map",
+    "static/css/main.ef12e380.chunk.css.map": "./static/css/main.ef12e380.chunk.css.map",
+    "static/font/font.less": "./static/font/icomoon.1799bf3c.woff",
+    "static/font/iconfont.css": "./static/font/iconfont.9fda8ba4.eot",
+    "static/font/App.css": "./static/font/甜心月圆.5ef76f91.ttf",
+    "static/media/App.css": "./static/media/bpicons.1061884d.svg",
+    "static/media/iconfont.css": "./static/media/iconfont.2db373cb.svg",
     "static/media/logo.svg": "./static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.101ccb2f.js",
-    "static/css/2.8d392105.chunk.css",
-    "static/js/2.4c944281.chunk.js",
-    "static/css/main.ffba0f1f.chunk.css",
-    "static/js/main.ddfa80c6.chunk.js"
+    "static/css/2.bae7c918.chunk.css",
+    "static/js/2.1a8ebe6f.chunk.js",
+    "static/css/main.ef12e380.chunk.css",
+    "static/js/main.620bdedf.chunk.js"
   ]
 }
